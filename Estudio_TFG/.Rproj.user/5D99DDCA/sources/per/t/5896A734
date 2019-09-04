@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1564418233017.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4119594130",
+    "id" : "5896A734",
+    "lastKnownWriteTime" : 1566397706,
+    "last_content_update" : 1566397706489,
+    "path" : "C:/Users/Jorge/Desktop/Estudio_TFG/Estudio_TFG/Estudio_TFG.r",
+    "project_path" : "Estudio_TFG.r",
+    "properties" : {
+        "cursorPosition" : "10,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

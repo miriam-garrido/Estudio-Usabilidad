@@ -1,0 +1,43 @@
+Amazon:                            5,16      
+American Eagle Outfitters:         4,51      
+Ann Taylor:                        4,20      
+Apple:                             6,46      
+Argos:                             5,55      
+B&H Photo:                         7,59      
+Best Buy:                          5,67      
+Cabela's:                          5,89      
+Costco:                            6,81      
+Crate & Barrel:                    5,94      
+Crutchfield:                       7,83      
+Debenhams:                         6,19      
+Dell:                              6,87      
+Disney Store:                      6,47      
+Etsy:                              6,98      
+GAP:                               7,29      
+Grainger:                          6,79      
+H&M:                               6,74      
+Home Depot:                        5,60      
+IKEA:                              6,89      
+John Lewis:                        6,43      
+L:                                 7,03      
+Marks & Spencer:                   5,97      
+Microsoft:                         7,91      
+Neiman Marcus:                     4,99      
+Newegg:                            6,32      
+Nordstrom:                         5,80      
+Nothern Tool:                      5,12      
+Office Depot:                      8,56      
+Overstock:                         7,02      
+Rakuten:                           6,37      
+Sears:                             6,22      
+Sephora:                           5,54      
+Staples:                           6,76      
+Target:                            6,50      
+Tesco:                             6,74      
+TigerDirect:                       6,94      
+Toys'r'us:                         5,89      
+Victoria's Secret:                 6,97      
+Walgreen Co:                       6,06      
+Walmart:                           6,57      
+Wayfair:                           7,49      
+Williams-Sonoma:                   8,32      
